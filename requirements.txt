@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-cloud-vision
+python-docx
+Pillow
+pdf2image
+# Optional (for offline OCR mode)
+# pytesseract
